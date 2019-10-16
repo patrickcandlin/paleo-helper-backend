@@ -47,3 +47,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "food_info", "~> 0.0.7"
 gem "http"
 gem 'figaro'
+gem 'dalli'
